@@ -1,0 +1,3 @@
+The supplied buyer dataset is synthetic practice data. It is not actual Parcl customer data. All metrics and cluster profiles are illustrative and should not be used as actual customer intelligence or investment advice.
+
+Expected root filename: real_estate_buyer_synthetic_dataset.csv
